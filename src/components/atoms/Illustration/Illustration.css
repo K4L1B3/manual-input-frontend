@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #2f75de -24.72%, #001850 100%);
+}
+
+.illustration {
+  display: block;
+  width: 50%;
+  height: 50%;
+}
